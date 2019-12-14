@@ -1,1 +1,1 @@
-# imageUpload
+# Skeleton project for Swagger
